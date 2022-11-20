@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    text-indent: 0%;
+    text-decoration: none;
+}
+.hero{
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    align-items: center;
+    position: relative;
+}
+       
+nav{
+    display:flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    margin: 10px 20px;
+    align-items: center;
+    justify-content:space-between;
+    padding: auto;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 20px 10px;
+    align-items: center;
+
+}
+.vic{
+    border-radius:250cm;
+}
